@@ -1,0 +1,35 @@
+h1 {
+text-align:center;
+background-color:blue;
+color:skyblue;
+padding:2%;
+margin:0%;
+font-size:3em;
+letter-spacing:0.1em;
+
+}
+nav{
+  color:blue;
+  float:left;
+  width:20%;
+  padding:2%;
+  background-color:skyblue;
+
+
+}
+nav a{
+  display:block;
+  text-align:center;
+  font-size:1.2em;
+
+}
+#content{
+  display:inline-block;
+  float: left;
+  width: 490px;
+  padding: 0 5px;
+  background-color: white;
+}
+#wrapper{
+  background-color:skyblue;
+}
